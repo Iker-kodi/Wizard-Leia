@@ -1,5 +1,5 @@
 id="Wizard PRINCESS and BABY Leia"
-version="1.0"
+version="1.1"
 zip="http://ikodi.x10host.com/Kodi/Wizards/plugin.program.Princess.zip"
 
 
@@ -7,7 +7,7 @@ name="Wizard.Leia.Princess.Baby"
 version="1.1"
 url="http://bit.ly/2L0HaUO"
 gui=""
-kodi="18.1"
+kodi="18.0"
 theme="http://"
 icon="https://i.imgur.com/4P9KwEK.png"
 fanart="https://i.imgur.com/WiFKthA.jpg"
