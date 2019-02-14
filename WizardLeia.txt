@@ -1,6 +1,6 @@
 id="Wizard PRINCESS and BABY Leia"
 version="1.0"
-zip="http://ikodi.x10host.com/Kodi/Wizards/Wizard.Princess_and_Baby.Leia.zip"
+zip="http://ikodi.x10host.com/Kodi/Wizards/plugin.program.Princess.zip"
 
 
 name="Wizard.Leia.Princess.Baby"
