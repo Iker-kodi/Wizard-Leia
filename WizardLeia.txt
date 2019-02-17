@@ -1,6 +1,6 @@
 name="Wizard.Leia.Princess.Baby"
 version="1.1"
-url="https://archive.org/download/Wizard.Leia.Princess.Baby_20190203/Wizard.Leia.Princess.Baby.zip"
+url="http://bit.ly/2L0HaUO"
 gui=""
 kodi="18.0"
 theme="http://"
