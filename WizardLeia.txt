@@ -3,30 +3,18 @@ version="1.1"
 zip="http://ikodi.x10host.com/Kodi/Wizards/plugin.program.Princess.zip"
 
 
-name="Wizard.Leia.Princess.Baby"
-
+name="Wizard Leia Princess Baby"
 version="1.1" 
-
 url="http://bit.ly/2L0HaUO"
-
 minor="http://" 
-
 gui="url.to.guisettings" 
-
 kodi="18.1" 
-
 theme="url.to.themes" 
-
 icon="https://i.imgur.com/4P9KwEK.png"
-
 fanart="https://i.imgur.com/WiFKthA.jpg"
-
-preview="https://www.youtube.com/watch?v=djV11Xbc914" 
-
+preview="" 
 adult="no" 
-
 info="url.to.info" 
-
 description="WIZARD KODI 18"
 
 
