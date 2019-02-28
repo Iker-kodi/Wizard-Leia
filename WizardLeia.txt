@@ -1,21 +1,18 @@
 id="plugin.program.Princess"
-version="1.1"
-zip="http://ikodi.x10host.com/Kodi/Wizards/plugin.program.Princess.zip"
+version="1.0"
+zip="http://ikodi.x10host.com/Kodi/Wizards/plugin.program.Princess-1.0.zip"
 
-
-name="Wizard Leia Princess Baby"
+name="Princess and Kids Wizard"
 version="1.1" 
 url="http://bit.ly/2L0HaUO"
-minor="http://" 
-gui="url.to.guisettings" 
+gui="http://" 
 kodi="18.1" 
-theme="url.to.themes" 
+theme="http://" 
 icon="https://i.imgur.com/4P9KwEK.png"
 fanart="https://i.imgur.com/WiFKthA.jpg"
 preview="" 
 adult="no" 
-info="url.to.info" 
-description="WIZARD KODI 18"
+description="Princess and Kids Wizard KODI 18"
 
 
 
