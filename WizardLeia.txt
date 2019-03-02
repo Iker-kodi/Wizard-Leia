@@ -4,7 +4,7 @@ zip="http://ikodi.x10host.com/Kodi/Wizards/plugin.program.Princess-1.0.zip"
 
 name="Princess and Kids Wizard"
 version="1.1" 
-url="http://bit.ly/2L0HaUO"
+url="http://ikodi.x10host.com/z/zz/Princess_and_Kids.Build.zip"
 gui="http://" 
 kodi="18.1" 
 theme="http://" 
