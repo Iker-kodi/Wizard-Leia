@@ -6,5 +6,5 @@
        [B]@PrincessWizards[/B]
 	   
 [COLOR yellow]v1.1[/COLOR]
--Añadidos 2 perfiles: Principal y Kids
+-Agregados 2 perfiles: Principal y Kids
 	   
